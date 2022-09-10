@@ -1,1 +1,2 @@
 capable god
+hello world
