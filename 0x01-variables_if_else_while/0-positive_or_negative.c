@@ -48,3 +48,5 @@ int main(void)
 
 }
 
+
+:wq
